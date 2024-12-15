@@ -1,6 +1,5 @@
----
-title: Cleaning data in R
----
+# Title: Cleaning data in R
+
 ## Background for this activity
 In this activity, I had a scenario, and focus on cleaning real data in R, will learn more about data cleaning functions and perform basic calculations to gain initial insights into your data.
 
